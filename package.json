@@ -19,5 +19,8 @@
     "pg": "^8.14.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.11.11"
   }
 }
